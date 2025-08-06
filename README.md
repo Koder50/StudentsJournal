@@ -6,7 +6,7 @@ Students Journal
 Java with testing
 ## How to use
 I am using IntelliJ Idea:
-1. Download Zip File from github(from main page of repository find green Button Code, choose right arrow and click 'Download Zip')
+1. Download Zip File from github(from main page of repository find green button 'Code', choose on the right of it down arrow and click 'Download Zip')
 2. Open this project in IntelliJ Idea
 3. In IDE search for the play on bar slightly to the left on top of program and choose the left option from play, Run/Debug Configurations and choose Edit Configurations
 4. Find '+' to the left on top (Add Configuration) and click it.
